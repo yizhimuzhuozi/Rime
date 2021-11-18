@@ -1,0 +1,266 @@
+# Rime 自己添加字库快捷方式打开
+# 更新时间：2021-06-17
+# coding: utf-8
+#@/db_name  custom_phrase.txt
+#@/db_type	tabledb
+
+
+阿昆 Time	akunt
+illustrator	ill
+illustrator	ai
+Adobe	ad
+Rime	rime	3
+Time	t	2
+PSD	p	4
+YouTube	y	2
+⌘	cmd
+⌃	ctl
+⌥	opt
+⇧	shift
+
+
+GBK	gbk
+UTF-8	utf
+macOS High Sierra	macos	2
+macOS Mojave	macos	3
+macOS	macos	4
+macOS Sierra	macos	1
+macos Big Sur	macos
+Google Analytics	ga
+CSS	css
+HTML html
+iOS	ios
+iPad	ipad
+iPhone	iphone
+iTunes	itunes
+JavaScript	js
+jQuery	jquery
+MySQL	mysql
+SQL	sql
+Objective-C	ojbc
+Ruby	ruby
+Rust	rust
+WeChat	wechat
+Swift	swift
+MacBook Pro	mbp
+MacBook	macbook
+Apple	apple
+GitHub	github
+iMac	imac
+iPad	ipad
+iPad Air	ipad
+iPad mini	ipad
+iPad Pro	ipad
+iPhone X	iphonex
+iPod	ipod
+IPTV	iptv
+IPv4	ipv
+IPv6	ipv
+Mac App Store	mas
+Mac mini	macmini
+Mac Pro	macpro
+OS X	osx
+X-Ray	xray
+Xbox One	xbox
+Youku	youku
+YouTube	yt
+	apple
+ MUSIC	applemusic
+ PAY	applepay
+ tv 4K	appletv
+ WATCH	applewatch
+Google Analytics	ga
+Google Tag Manager	gtm
+T恤	txu
+ok	👌🏻
+Alfred	al
+Capture One	cap
+CleanMyMac	cle
+Final Cut Pro	fin
+Shadowsocks	sha
+Keynote	ke
+Numbers	nu
+Pages	pa
+V2EX	ve	2
+v2ex.com	ve	1
+
+
+Rime	rime	4
+鼠须管	rime	3
+https://rime.im/	rime	2
+Squirrel	rime	1
+
+>	dy	2
+≥	dy	1
+<	xy	2
+≤	xy	1
+
+App Store	as	2
+Apple Store	as	1
+AC86U	ac	2
+AppleCare+	ac	1
+Apple ID	aid
+Apple Music	am	2
+AiMesh	am	1
+AirPods	ap	4
+Apple Pay	ap	3
+Alipay	ap	2
+
+Apple TV	atv
+Apple Watch	aw
+Android	az
+App Cleaner & Uninstaller	acu
+
+Chrome	ch	2
+Clubhouse	ch
+ClashX	cla
+Chrome  ch  100
+CleanMyMac X	cmm	1
+Command	cm	1
+Control	ct	2
+CarPlay	cp	1
+CleanShot X	cs
+
+Download	dl	1
+Downie	dow
+Dear	dear
+
+
+Enpass	enp
+Emoji	em
+Mimestream	mim
+
+Final Cut Pro	fcp
+
+gfwlist	gfw
+
+GitHub Desktop	gh	1
+GitHub	gh	2
+Gmail	gm
+Google	gg
+Google Pay	gp
+Google Play	gp	2
+Google Voice	gv
+Gboard	gb
+
+Handoff	ho
+Hi	hi
+
+HyperSwitch	hs
+
+iCloud	ic
+
+Illustrator	ill
+iStat Menus	ism
+iWork	iw	4
+iTunes	itunes
+iMac	imac	2
+iMac Pro	imac	1	
+
+Keynote	kn
+koolproxy	kpr
+koolshare	ks
+Evutec	kfl
+
+Lightning to USB-C	ltc
+Lightning to USB	ltu
+LINE	line
+
+Mac	mac	2
+Mac mini	mac	1
+
+macOS	macos	2
+macOS BigSur	macos	1
+Markdown	md
+Microsoft	mic	2
+Microsoft Office	mic	1
+Netflix	nf	
+MacBook Pro	mbp
+MacBook Air	mba
+Messenger	ms
+㎡	pfm
+
+🐂️🍺️	nb	2
+Numbers	nb	1
+
+1Password	one	2
+OneDrive	one	1
+openwrt	owno
+Option	ot
+Outlook	ol	2
+outlook.com	ol	1
+
+Parallels Desktop	pd
+Paragon NTFS	pn
+Photoshop	ps
+Paypal	pp
+Pro	pro
+
+QQ	qq
+Quantumult	quan
+
+Pages	pg
+
+readme.md	rm
+
+ScreenBar Plus	sbp	1
+Shadowrocket	sds	3	
+Shadowsocks	sds	2
+ShadowsocksX-NG-R8	sds	1
+Safari	sf	2
+Shift	sf	1
+SHIELD TV	stv
+SSD	ssd	2
+Spotify	sp	1
+Spark	sp	2
+Sublime Text	sbt
+
+Telegram	tg
+Twitter	tt
+Type-C	tc	
+Typora	ty
+TeamViewer  tv
+
+USB-C	uc
+Up主	upzhu
+U盘	upan
+
+WH-1000XM2	sn
+WhatsApp	wa
+WeChat	wc	2
+Windows	win
+
+YouTube	yt
+YouTube Premium	yp
+又双叒叕	yyy
+
+
+
+HK	hk	10001
+Hong Kong	hk	10000
+
+°	du	10000
+℃	she shi du
+℉	hua shi du
+♂	nan	10000
+♀	nv	10000
+↑	shang	10000
+↓	xia	10000
+→	you	10000
+↗	you shang	10000
+↘	you xia	10000
+←	zuo	10000
+↖	zuo shang	10000
+↙	zuo xia	10000
+★	xing	10000
+①	yi	10000
+②	er	10000
+③	san	10000
+④	si	10000
+⑤	wu	10000
+⑥	liu	10000
+⑦	qi	10000
+⑧	ba	10000
+⑨	jiu	10000
+⑩	shi	10000
+
